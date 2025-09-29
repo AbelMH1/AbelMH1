@@ -12,6 +12,20 @@
 🎯 Enfocado en el desarrollo Full Stack y las mejores prácticas  
 📚 Comprometido con el crecimiento profesional continuo  
 
+### 📚 Actualmente Aprendiendo
+- 🔥 **Web3 & Blockchain** - Desarrollo de aplicaciones descentralizadas
+- ☁️ **Cloud Computing** - AWS, Azure y arquitectura en la nube
+- 🤖 **Inteligencia Artificial** - Machine Learning y procesamiento de lenguaje natural
+- 📊 **Data Science** - Análisis de datos y visualización avanzada
+- 🔧 **DevOps Avanzado** - CI/CD, Docker, Kubernetes
+
+### 🎯 Objetivos 2024
+- [ ] Obtener certificación AWS Solutions Architect
+- [ ] Contribuir a 5 proyectos open source
+- [ ] Crear 3 aplicaciones web completas
+- [ ] Aprender Rust y Go
+- [ ] Implementar arquitecturas microservicios  
+
 ---
 
 ## 📊 Estadísticas de GitHub
@@ -61,30 +75,69 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbelMH1&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbelMH1/AbelMH1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbelMH1/AbelMH1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbelMH1/AbelMH1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 
-## 🎯 Proyectos Destacados
+## 🎯 Proyectos y Contribuciones
 
+### 📁 Repositorios Destacados
 <div align="center">
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AbelMH1&repo=portfolio&theme=tokyonight)](https://github.com/AbelMH1/portfolio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AbelMH1&repo=web-app&theme=tokyonight)](https://github.com/AbelMH1/web-app)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AbelMH1&repo=AbelMH1&theme=tokyonight)](https://github.com/AbelMH1/AbelMH1)
 
+</div>
+
+### 📈 Métricas Detalladas
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbelMH1&theme=github_dark" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbelMH1&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbelMH1&theme=github_dark" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbelMH1&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbelMH1&theme=github_dark&utcOffset=1" alt="Productive Time" />
 </div>
 
 ---
 
 ## 💼 Experiencia Profesional
 
+### 🏆 Habilidades Técnicas
+```text
+JavaScript         ████████████████████   95%
+TypeScript         ██████████████████     85%
+Python             ████████████████       80%
+React              ███████████████████    90%
+Node.js            ██████████████████     85%
+HTML/CSS           ████████████████████   95%
+SQL                ████████████████       75%
+Git                ███████████████████    90%
+```
+
+### 💼 Áreas de Especialización
 - 💻 **Desarrollo Full Stack** - Creación de aplicaciones web completas
 - 🔧 **Mantenimiento de Software** - Optimización y mejora de sistemas existentes  
 - 📱 **Desarrollo Responsivo** - Interfaces adaptables a múltiples dispositivos
 - 🗄️ **Gestión de Bases de Datos** - Diseño e implementación de estructuras de datos
 - 🚀 **DevOps Básico** - Despliegue y automatización de procesos
+- 🎨 **UI/UX Design** - Diseño de interfaces intuitivas y atractivas
+- 📊 **Análisis de Datos** - Procesamiento y visualización de información
+- 🔒 **Seguridad Web** - Implementación de buenas prácticas de seguridad
 
 ---
 
-## 📫 Contacto
+## 📫 Conecta Conmigo
 
 <div align="center">
   
@@ -94,6 +147,23 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbelMH_Dev)
 
 </div>
+
+### 🌟 Datos Curiosos
+
+- ⚡ **Lenguaje favorito:** JavaScript por su versatilidad
+- 🎵 **Codeo mejor con:** Música electrónica o lo-fi
+- ☕ **Combustible:** Café negro, sin azúcar
+- 🌍 **Idiomas:** Español (nativo), Inglés (intermedio-avanzado)
+- 🎮 **Hobbies:** Gaming, lectura de sci-fi, fotografía
+- 🌱 **Filosofía:** "Falla rápido, aprende rápido, mejora constantemente"
+
+### 💬 Disponible Para
+
+- 🤝 **Colaboraciones** en proyectos open source
+- 💡 **Mentoría** en desarrollo web y programación
+- 🗣️ **Charlas técnicas** sobre JavaScript, React y tecnologías web
+- 📝 **Code Reviews** y consultoría técnica
+- 🚀 **Proyectos freelance** interesantes y desafiantes
 
 ---
 
