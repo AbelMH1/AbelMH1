@@ -83,7 +83,6 @@
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbelMH1&theme=tokyonight" alt="Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelMH1&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbelMH1&theme=tokyonight&utcOffset=2" alt="Productive Time" />
 </div>
 
 ---
